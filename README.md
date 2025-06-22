@@ -57,7 +57,7 @@ Templates: The Django templates (HTML files in the templates/todo directory) are
 Admin Interface: Django provides a built-in admin interface for managing database records. If the models are registered with the admin site, administrators can add, edit, and delete carpooling requests and rides through the admin interface.'''
 
 
-2. Embed video of project demo
+2. Embed video of project demo.
 
 
 
